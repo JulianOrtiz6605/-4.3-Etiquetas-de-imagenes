@@ -9,4 +9,8 @@
              dos para no distorsionar la imagen. <br>
            * Para colocar el valor de height o width en pixeles puede ser solo el número o su valor en pixeles asi:width="500" o width="500px"
              también hay otros formas de medida.
-        </p>        
+        </p>     
+        
+        
+        
+        [https://julianortiz6605.github.io/-4.3-Etiquetas-de-imagenes/]
